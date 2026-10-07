@@ -95,10 +95,10 @@ Recommendation:
 
 # Evidence
 ![SSH failure](ssh-failure.png)
-![SSH login failure](ssh-failure-cfo)
+![SSH login failure](ssh-failure-cfo.png)
 ![Waxuh dashboard](wazuh-dashboard.png)
 ![Wazuh alert](wazuh-alert.png)
-![Alert insight](Alert-insight.png)
+![Alert insight](alert-insight.png)
 ![fail2ban](fail2ban.png)
 
 
